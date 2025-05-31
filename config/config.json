@@ -1,0 +1,19 @@
+{
+  "kundroll": "1361343903500075058",
+  "guildid": "1351222190594461767",
+  "recensionkanal": "1361339596981670029",
+  "products": ["Produkt A", "Produkt B", "Produkt C"],
+  "ratings": {
+    "min": 1,
+    "max": 5,
+    "step": 1,
+    "suffix": "⭐"
+  },
+  "embedTitle": "<<@servername>> - Ny recension!",
+  "embedRating": "**Betyg:\n** <<@rating>>",
+  "embedAuthor": "**Recension av**\n<<@username>>",
+  "embedProduct": "**Produkt:**\n<<@product>>",
+  "embedComment": "**Kommentar:**\n<<@comment>>",
+  "embedColor": "#A020F0"
+}
+  
