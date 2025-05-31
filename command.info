@@ -1,0 +1,9 @@
+framework: Xenshop
+name: Recension
+version: 1.4
+author: RiktigaTomten
+description: Recension kommando som dina kunder kan använda för att göra recensioner.
+
+mainfile: ./script/main.js
+mainconfig: ./config/config.json
+type: command
